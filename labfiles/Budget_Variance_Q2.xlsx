@@ -1,0 +1,31 @@
+Department,Line Item,Variance ($),Budgeted Spend ($),Actual Spend ($)
+Marketing,Software,-4680,171958,149124
+Marketing,Contractors,953,171958,149124
+Marketing,Salaries,-9895,171958,149124
+Sales,Salaries,3697,196867,184695
+Sales,Events,-1380,196867,184695
+Sales,Hardware,-326,196867,184695
+Product,Software,-4854,181932,168761
+Product,Consulting,-50,181932,168761
+Product,Salaries,-2087,181932,168761
+Engineering,Events,2991,153694,157478
+Engineering,Software,5674,153694,157478
+Engineering,Salaries,1316,153694,157478
+HR,Events,2237,169879,175818
+HR,Consulting,13944,169879,175818
+HR,Salaries,3913,169879,175818
+Finance,Contractors,688,160268,163104
+Finance,Events,-15029,160268,163104
+Finance,Hardware,-10952,160268,163104
+Operations,Contractors,-4400,104886,127893
+Operations,Travel,-1621,104886,127893
+Operations,Salaries,1737,104886,127893
+Customer Support,Travel,9137,187337,230575
+Customer Support,Hardware,-19149,187337,230575
+Customer Support,Consulting,10017,187337,230575
+IT,Salaries,-5360,137498,87192
+IT,Contractors,-5801,137498,87192
+IT,Travel,-1034,137498,87192
+Legal,Consulting,-7855,162727,177456
+Legal,Salaries,-4348,162727,177456
+Legal,Contractors,-12163,162727,177456
